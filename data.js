@@ -118,12 +118,12 @@ const data = [
                 "bgImage": "assets/tanka-bp.jpg",
                 "link": "./page.html",
                 "imgs": [
-                    "assets/bp_1.jpg",
-                    "assets/bp_2.jpg",
-                    "assets/bp_3.jpg",
-                    "assets/bp_4.jpg",
-                    "assets/bp_5.jpg",
-                    "assets/bp_6.jpg",
+                    "assets/bp-1.jpg",
+                    "assets/bp-2.jpg",
+                    "assets/bp-3.jpg",
+                    "assets/bp-4.jpg",
+                    "assets/bp-5.jpg",
+                    "assets/bp-6.jpg",
                 ]
             },
             {
