@@ -241,3 +241,5 @@ const data = [
 function imageUrl(path) {
     return `https://github.com/wupaopao5/wupaopao5.github.io/blob/main/${path}?raw=true`;;
 }
+
+const jianliPdfUrl = 'https://github.com/wupaopao5/wupaopao5.github.io/blob/main/paopao-jianli.pdf?raw=true';
