@@ -26,6 +26,6 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 
 function clickMe() {
-    window.open('./about.html', '_blank');
+    window.location.href = "./about.html";
 }
   
