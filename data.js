@@ -153,7 +153,7 @@ const data = [
                 "name": "UU跑腿",
                 "description": "UU跑腿是一种新型的互联网模式，为用户提供高效、快捷、环保的贴心服务。客户无论在什么位置，都可以通过网络下单请求跑腿服务",
                 "logoImage": "assets/time-control-appicon.png",
-                "bgImage": "assets/uu-banner.jpg",
+                "bgImage": "assets/uupt-banner.jpg",
                 "link": "./page.html",
                 "imgs": [
                     "assets/uu_client_1.jpg",
@@ -169,7 +169,7 @@ const data = [
                 "name": "UU天眼系统",
                 "description": "天眼系统主要包括订单实时监控、城市预警系统、服务品质实时监控等，主要针对产品的全方位实施跟踪和监控，方便我们清晰订单走势",
                 "logoImage": "assets/paintplanner-appicon.png",
-                "bgImage": "assets/tianyan-banner.png",
+                "bgImage": "assets/tianyan-banner.jpg",
                 "link": "./page.html",
                 "imgs": [
                     "assets/tianyan_1.jpg",
@@ -242,4 +242,4 @@ function imageUrl(path) {
     return `https://github.com/wupaopao5/wupaopao5.github.io/blob/main/${path}?raw=true`;;
 }
 
-const jianliPdfUrl = 'https://github.com/wupaopao5/wupaopao5.github.io/blob/main/paopao-jianli.pdf?raw=true';
+const jianliPdfUrl = 'https://github.com/wupaopao5/wupaopao5.github.io/blob/main/assets/paopao-jianli.jpg?raw=true';
