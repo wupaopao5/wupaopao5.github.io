@@ -242,4 +242,4 @@ function imageUrl(path) {
     return `https://github.com/wupaopao5/wupaopao5.github.io/blob/main/${path}?raw=true`;;
 }
 
-const jianliPdfUrl = 'https://github.com/wupaopao5/wupaopao5.github.io/blob/main/assets/paopao-jianli.jpg?raw=true';
+const jianliUrl = 'https://github.com/wupaopao5/wupaopao5.github.io/blob/main/assets/paopao-jianli.jpg?raw=true';

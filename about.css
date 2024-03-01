@@ -1,0 +1,26 @@
+.container {
+    margin: 0;
+    padding-left: 150px;
+    padding-right: 150px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0px;
+    justify-content: center;
+}
+
+img {
+    width: calc(100% - 300px);
+    max-width: 1080px;
+    height: auto;
+}
+
+@media (max-width: 768px) {
+
+    .container {
+        padding: 0;
+    }
+
+    img {
+        width: 100%;
+    }
+}
