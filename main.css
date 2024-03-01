@@ -450,7 +450,7 @@ a:hover .arrow svg {
 
 @media only screen and (max-width: 768px) {
     .projectDescription {
-        margin-top: 4px;
+        margin-top: 20px;
         font-size: 1.6rem;
         margin-bottom: 16px;
     }
