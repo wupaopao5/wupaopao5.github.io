@@ -65,7 +65,6 @@ const data = [
                     "assets/qianka-9.jpg",
                     "assets/qianka-10.jpg",
                     "assets/qianka-11.jpg",
-                    "assets/qianka-12.jpg",
                 ]
             },
             {

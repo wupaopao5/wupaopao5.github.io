@@ -12,6 +12,7 @@ document.addEventListener('DOMContentLoaded', function() {
           item.projects.forEach(project => {
             const projectElement = document.createElement('a');
             projectElement.href = `${project.link}?id=${project.id}`;
+            projectElement.target = "_blank";
             projectElement.className = `fullWidthProject ${project.id}`;
             projectElement.innerHTML = `
                     <img src="${project.bgImage}">
@@ -26,6 +27,6 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 
 function clickMe() {
-    window.location.href = "./about.html";
+    window.open("./about.html", "_blank");
 }
   
