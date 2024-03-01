@@ -237,3 +237,7 @@ const data = [
         ],
     }
 ];
+
+function imageUrl(path) {
+    return `https://github.com/wupaopao5/wupaopao5.github.io/blob/main/${path}?raw=true`;;
+}

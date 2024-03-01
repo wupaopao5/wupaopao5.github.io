@@ -8,7 +8,7 @@ document.addEventListener('DOMContentLoaded', function() {
             document.title = `Paopao-${project.name}`;
             project.imgs.forEach(img => {
                 const imgElement = document.createElement('img');
-                imgElement.src = img;
+                imgElement.src = imageUrl(img);
                 container.appendChild(imgElement);
             });
         }

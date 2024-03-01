@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', function() {
             projectElement.target = `${project.link}?id=${project.id}`;
             projectElement.className = `fullWidthProject ${project.id}`;
             projectElement.innerHTML = `
-                    <img src="${project.bgImage}">
+                    <img src="${imageUrl(project.bgImage)}">
                     <div class="projectInfo">
                         <p class="projectTitle">${project.name}</p>
                         <p class="projectDescription">${project.description}</p>
@@ -29,4 +29,3 @@ document.addEventListener('DOMContentLoaded', function() {
 function clickMe() {
     window.open("./about.html", "./about.html");
 }
-  
