@@ -172,19 +172,16 @@ const data = [
                 "bgImage": "assets/tianyan-banner.jpg",
                 "link": "./page.html",
                 "imgs": [
-                    "assets/tianyan_1.jpg",
-                    "assets/tianyan_2.jpg",
-                    "assets/tianyan_3.jpg",
-                    "assets/tianyan_4.jpg",
-                    "assets/tianyan_5.jpg",
-                    "assets/tianyan_6.jpg",
+                    "assets/tianyan1.jpg",
+                    "assets/tianyan2.jpg",
+                    "assets/tianyan3.jpg",
                 ]
             }
         ],
     },
     {
         "class": "",
-        "date": "2015",
+        "date": "2015-2016",
         "projects": [
             {
                 "id": "jianshen",
