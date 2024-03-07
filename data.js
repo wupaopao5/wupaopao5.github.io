@@ -8,7 +8,7 @@ const data = [
                 "name": "果冻",
                 "description": "果冻陪玩app，一款可以让你随时随地都不孤单的交友陪玩软件，这里还有超多游戏大神随时随地都会分享自己的游戏技巧和玩法！",
                 "logoImage": 'assets/guodong/guodong-banner.png',
-                "bgImage": "",
+                "bgImage": "assets/guodong/guodong-banner.png",
                 "link": "./page.html",
                 "imgs": [
                     "assets/guodong/guodong-1.png",
