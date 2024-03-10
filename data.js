@@ -14,7 +14,6 @@ const data = [
                     "guodong/guodong-1.png",
                     "guodong/guodong-2.png",
                     "guodong/guodong-3.png",
-                    "guodong/guodong-4.png",
                     "guodong/guodong-5.png",
                     "guodong/guodong-6.png",
                     "guodong/guodong-7.png",
