@@ -248,7 +248,7 @@ const data = [
 ];
 
 function imageUrl(path) {
-    return `https://img.paopao.design/assets/${path}/webp`;
+    return `assets/${path}`;
 }
 
 const jianliUrl = imageUrl('paopao-jianli.jpg');
