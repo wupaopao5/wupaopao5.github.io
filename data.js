@@ -248,7 +248,7 @@ const data = [
 ];
 
 function imageUrl(path) {
-    return `assets/${path}`;
+    return `https://github.com/wupaopao5/assets/blob/master/${path}`;
 }
 
 const jianliUrl = imageUrl('paopao-jianli.jpg');
